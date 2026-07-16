@@ -1,4 +1,4 @@
-name: Kirtman_agcm
+name: agcm_environment
 channels:
   - pytorch
   - conda-forge
